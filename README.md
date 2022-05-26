@@ -1,4 +1,4 @@
-# Permanente-2a
+# Permanente-2a  Convertidor
 
 Este es un algoritmo con la capacidad de Convertir (PESOS, MEDIDAS y TEMPERATURA)
 
